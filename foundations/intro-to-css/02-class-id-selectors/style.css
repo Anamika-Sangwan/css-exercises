@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.p{
+    background-color: pink;
+    font-family: Verdana,DejaVu Sans,sans-serif;
+}
+
+#pip{
+    font-size: 24px;
+}
+
+#tweet{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+#two{
+    color:blue;
+    font-size: 36px;
+}
